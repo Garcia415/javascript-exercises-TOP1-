@@ -1,4 +1,5 @@
 function reverseString(strings) {
+    // We Split the string we reverse and join back. -Angel 
     return strings.split('').reverse().join('')
 };
 
